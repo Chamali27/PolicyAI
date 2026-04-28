@@ -35,14 +35,12 @@ The analysis focuses on:
 
 
 
-```
 PolicyAI/
 ├── policy_app.py        # Main Streamlit application
 ├── policy_video.mp4     # Video demonstration
 ├── requirements.txt     # Python dependencies
 └── README.md
 
-```
 ---
 
 ## How to Run
