@@ -32,13 +32,13 @@ The analysis focuses on:
 - **NLTK** — Text preprocessing and TF-IDF summarisation
 - **PyPDF2 / python-docx** — Document parsing
 - **GitHub** — Version control and project documentation
-
+```
 PolicyAI/
 ├── policy_app.py        # Main Streamlit application
 ├── policy_video.mp4     # Video demonstration
 ├── requirements.txt     # Python dependencies
 └── README.md
-
+```
 ---
 
 ## How to Run
