@@ -33,8 +33,6 @@ The analysis focuses on:
 - **PyPDF2 / python-docx** — Document parsing
 - **GitHub** — Version control and project documentation
 
-
-
 PolicyAI/
 ├── policy_app.py        # Main Streamlit application
 ├── policy_video.mp4     # Video demonstration
@@ -80,6 +78,7 @@ The app will open at `http://localhost:8501`
 - Supports multiple scenarios from the same summary
 - Upload PDF, DOCX, or TXT — or paste text directly
 - Download summaries and drafts as `.txt` files
+
 ---
 
 ## Project Structure
