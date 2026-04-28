@@ -32,8 +32,19 @@ The analysis focuses on:
 - **NLTK** — Text preprocessing and TF-IDF summarisation
 - **PyPDF2 / python-docx** — Document parsing
 - **GitHub** — Version control and project documentation
+
 ---
 
+## Project Structure
+
+```
+PolicyAI/
+├── policy_app.py        # Main Streamlit application
+├── policy_video.mp4     # Video demonstration
+├── requirements.txt     # Python dependencies
+└── README.md
+
+```
 ---
 
 ## How to Run
@@ -73,7 +84,3 @@ The app will open at `http://localhost:8501`
 - Supports multiple scenarios from the same summary
 - Upload PDF, DOCX, or TXT — or paste text directly
 - Download summaries and drafts as `.txt` files
-
----
-
-## Project Structure
