@@ -33,10 +33,7 @@ The analysis focuses on:
 - **PyPDF2 / python-docx** — Document parsing
 - **GitHub** — Version control and project documentation
 ---
-```
 
-
-```
 ---
 
 ## How to Run
